@@ -1,0 +1,15 @@
+{
+  "shape": [
+    284807,
+    31
+  ],
+  "fraud_count": 492,
+  "fraud_percent": 0.1727485630620034,
+  "best_params": {
+    "classifier__C": 1.0,
+    "classifier__penalty": "l2",
+    "classifier__solver": "liblinear"
+  },
+  "best_cv_f1": 0.7642002969141968,
+  "optimal_threshold": 0.05760576106400541
+}
